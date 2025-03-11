@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "wild-mountain-da39",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "16fa3c7c-ca8d-4472-890c-f686ee82fcc6",
+      "database_name": "tiny-mouse-afb1-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
